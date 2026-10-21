@@ -1,5 +1,11 @@
 # TD-H9 APRS Smart Beaconing
 
+<img width="460" height="500" alt="IMG_2" src="https://github.com/user-attachments/assets/8e8798c1-ace5-46ec-9609-d54a3274ffbf" />
+
+
+<img width="440" height="500" alt="IMG_1" src="https://github.com/user-attachments/assets/f4145d49-a2d4-48fa-84bb-81b370670d8a" />
+
+
 Reverse engineering a handheld radio (TIDRADIO TD-H9) to replace its fixed
 interval APRS beacon with **smart beaconing** driven by real GNSS data:
 speed-dependent intervals, corner pegging and a final beacon on stop.
