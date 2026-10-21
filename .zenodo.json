@@ -1,0 +1,13 @@
+{
+  "title": "TD-H9 APRS Smart Beaconing",
+  "upload_type": "software",
+  "description": "Reverse engineering of the TIDRADIO TD-H9 handheld radio (JieLi AC695X SoC and ARM APRS module) to add GNSS-driven APRS smart beaconing. Contains the project write-up, architecture, method and a portable C99 beacon scheduler and NMEA RMC parser with tests. Vendor firmware, patch offsets and flashable images are intentionally not included. Code: MIT. Documentation: CC BY 4.0.",
+  "creators": [
+    { "name": "Kuehn, Tomasz" }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": ["APRS", "AX.25", "ham radio", "smart beaconing", "reverse engineering", "firmware", "GNSS"],
+  "version": "1.0.0",
+  "language": "eng"
+}
